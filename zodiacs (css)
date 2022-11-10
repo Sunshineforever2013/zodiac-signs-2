@@ -1,4 +1,4 @@
-*{
+{
   box-sizing: border-box;
 }
 .main p{
@@ -14,7 +14,7 @@ p{font-family: Helvetica;
   .header{
     padding: 80px;
     text-align:center;
-    background-image:url("https://i.pinimg.com/originals/df/d8/9c/dfd89c3928dc2a788f5188cf52d14653.jpg");
+   background-color: #F9DED7;
     color: white;
     background-repeat: no-repeat;
    background-size: 2000px 2000px;
@@ -27,7 +27,7 @@ p{font-family: Helvetica;
 
 .navbar{
   overflow:hidden;
-  background-color: #333;
+  background-color: #F5CDDE;
 }
 .navbar a{
   float: left;
@@ -38,7 +38,7 @@ p{font-family: Helvetica;
   text-decoration: none;
 }
 .navbar a:hover{
-  background-color: #ddd;
+  background-color: #F5CDDE;
   color: white;
   
   
@@ -56,5 +56,5 @@ p{font-family: Helvetica;
 
 .row{
  
-  background-image: url("https://c8.alamy.com/zooms/9/f86168e43aab46998a771a2055689834/2h8jk3e.jpg"); background-size: 1000px 1000px;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmvMHjypNeNY43htUJyD5rStQZvsOSIhacbq1wwTM&s");
 }
